@@ -116,3 +116,16 @@ prometheus_data/
 # Build artifacts
 *.tar.gz
 *.zip
+
+/.claude
+
+# AI Coding Tools
+.claude/
+.cursor/
+.aider/
+*ai*tool*
+claude*
+droid*
+copilot*
+codeium*
+tabnine*
